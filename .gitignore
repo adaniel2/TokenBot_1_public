@@ -17,3 +17,6 @@ artifacts/
 # Maven
 log/
 target/
+
+# Random
+.repo
